@@ -4,7 +4,7 @@
 
 📍 Ho Chi Minh City, Vietnam
 
-I design, build, and improve AI systems for real-world applications — from computer vision research to production deployment.
+I design, build, and improve AI systems for real-world applications - from computer vision research to production deployment.
 
 My work focuses on **object detection, multimodal AI, dataset quality, and scalable ML pipelines**.
 
