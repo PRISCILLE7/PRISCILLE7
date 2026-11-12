@@ -14,19 +14,18 @@ My work focuses on **object detection, multimodal AI, dataset quality, and scala
 - 📄 **AI Research:** Research in self-supervised learning published at **IEA/AIE 2026 (Springer)**.
 
 ### 🛠️ Technical Stack
-**AI & Computer Vision:** Python · PyTorch · YOLOv8/YOLO11 · OpenCV · Self-Supervised Learning
-**Multimodal AI:** Google Gemini · Vision-Language Models · Prompt Engineering
-**MLOps & Infrastructure:** Docker · Kubernetes · GCP · MLflow · CI/CD
-
+**AI & Computer Vision:** Python · PyTorch · YOLOv8/YOLO11 · OpenCV · Self-Supervised Learning  
+**Multimodal AI:** Google Gemini · Vision-Language Models · Prompt Engineering  
+**MLOps & Infrastructure:** Docker · Kubernetes · GCP · MLflow · CI/CD  
 **Data & Backend:** PostgreSQL · SQL · FastAPI
 
 ### 📂 Featured Projects
 **[Self2SelfPlus - Magnetic Fault Diagnosis](https://github.com/PRISCILLE7/Self2SelfPlus-MagneticFaultDiagnosis)**  
-Self-supervised learning for electrical machine fault diagnosis. Research implementation associated with IEA/AIE 2026.
+Self-supervised learning for electrical machine fault diagnosis. Research implementation associated with IEA/AIE 2026.  
 **[Pyleecan - Multi-Defect Simulation](https://github.com/PRISCILLE7/Pyleecan-MultiDefect-Simulation)**  
-Physics-based synthetic data generation for electrical machine fault analysis.
+Physics-based synthetic data generation for electrical machine fault analysis.  
 **[YOLO License Recognition](https://github.com/PRISCILLE7/YOLO-License-Recognition)**  
-License plate detection and OCR using YOLO and Streamlit.
+License plate detection and OCR using YOLO and Streamlit.  
 **[AI Text Summarization](https://github.com/PRISCILLE7/ai-text-summarization-app)**  
 Multilingual text summarization application with Hugging Face deployment and CI/CD.
 
