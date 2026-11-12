@@ -28,10 +28,10 @@ My work focuses on **object detection, multimodal AI, dataset quality, and scala
 
 ### 📂 Featured Projects
 
-**[Self2SelfPlus — Magnetic Fault Diagnosis](https://github.com/PRISCILLE7/Self2SelfPlus-MagneticFaultDiagnosis)**  
+**[Self2SelfPlus - Magnetic Fault Diagnosis](https://github.com/PRISCILLE7/Self2SelfPlus-MagneticFaultDiagnosis)**  
 Self-supervised learning for electrical machine fault diagnosis. Research implementation associated with IEA/AIE 2026.
 
-**[Pyleecan — Multi-Defect Simulation](https://github.com/PRISCILLE7/Pyleecan-MultiDefect-Simulation)**  
+**[Pyleecan - Multi-Defect Simulation](https://github.com/PRISCILLE7/Pyleecan-MultiDefect-Simulation)**  
 Physics-based synthetic data generation for electrical machine fault analysis.
 
 **[YOLO License Recognition](https://github.com/PRISCILLE7/YOLO-License-Recognition)**  
