@@ -14,10 +14,15 @@ My work focuses on **object detection, multimodal AI, dataset quality, and scala
 - 📄 **AI Research:** Research in self-supervised learning published at **IEA/AIE 2026 (Springer)**.
 
 ### 🛠️ Technical Stack
-**AI & Computer Vision:** Python · PyTorch · YOLOv8/YOLO11 · OpenCV · Self-Supervised Learning  
-**Multimodal AI:** Google Gemini · Vision-Language Models · Prompt Engineering  
+**AI & Computer Vision:** Python · PyTorch · YOLOv8/YOLO11 · OpenCV · DINOv3 · Multiple-Instance Learning · Self-Supervised Learning  
+**Multimodal AI:** Google Gemini · Vision-Language Models · SAM 3 · Prompt Engineering  
+**3D Vision (current project):** VGGT multi-view reconstruction · Open3D  
 **MLOps & Infrastructure:** Docker · Kubernetes · GCP · MLflow · CI/CD  
 **Data & Backend:** PostgreSQL · SQL · FastAPI
+
+### 🔬 Currently working on
+- **Frost detection:** combining a DINOv3 + MIL classifier trained on field images with Gemini Vision reasoning.  
+- **Freezer fill-rate estimation:** a multimodal 3D pipeline using Gemini, SAM 3, VGGT multi-view reconstruction and Open3D.
 
 ### 📂 Featured Projects
 **[Self2SelfPlus - Magnetic Fault Diagnosis](https://github.com/PRISCILLE7/Self2SelfPlus-MagneticFaultDiagnosis)**  
